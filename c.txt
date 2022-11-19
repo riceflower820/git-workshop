@@ -3,3 +3,5 @@ commit -> 真的做出一個版本來 commit id(黃色那條)
 q 離開
 git 管理的是{動作}
 git status 是察看狀態
+git diff 比較工作區和暫存區
+git restore 返回
