@@ -1,0 +1,4 @@
+add 加入
+commit -> 真的做出一個版本來 commit id(黃色那條)
+q 離開
+git 管理的是{動作}
