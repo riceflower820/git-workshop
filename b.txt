@@ -3,6 +3,7 @@ login
 
 register
 
+logout
 
 這是一個新功能
 你好啊
